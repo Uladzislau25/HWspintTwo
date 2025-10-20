@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Uladzislau25/HWspintTwo/static/css/main.f7c02d52.css",
+    "main.js": "/Uladzislau25/HWspintTwo/static/js/main.a6fd2452.js",
+    "static/js/787.66cb4309.chunk.js": "/Uladzislau25/HWspintTwo/static/js/787.66cb4309.chunk.js",
+    "index.html": "/Uladzislau25/HWspintTwo/index.html",
+    "main.f7c02d52.css.map": "/Uladzislau25/HWspintTwo/static/css/main.f7c02d52.css.map",
+    "main.a6fd2452.js.map": "/Uladzislau25/HWspintTwo/static/js/main.a6fd2452.js.map",
+    "787.66cb4309.chunk.js.map": "/Uladzislau25/HWspintTwo/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c02d52.css",
+    "static/js/main.a6fd2452.js"
+  ]
+}

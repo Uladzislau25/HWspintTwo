@@ -17,4 +17,5 @@
 }
 
 .pen {
+    pointer-events: none;
 }
